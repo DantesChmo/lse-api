@@ -1,0 +1,2 @@
+export declare const STUDENT_REPOSITORY = "STUDENT_REPOSITORY";
+export declare const DATABASE_CONNECTION = "DATABASE_CONNECTION";
